@@ -41,7 +41,7 @@ CREATE TABLE `musteriler` (
 --
 
 INSERT INTO `musteriler` (`id`, `ad`, `soyad`, `tc_no`, `sehir`, `ilce`) VALUES
-(20, 'Ad', 'Soyad', 'TCKN', 'Şehir Adı', 'İlçe Adı'), -- Bilgileri Buraya Yazınızr
+(20, 'Ad', 'Soyad', 'TCKN', 'Şehir Adı', 'İlçe Adı'), -- Bilgileri Buraya Yazınız
 
 --
 -- Dökümü yapılmış tablolar için indeksler
